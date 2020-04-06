@@ -31,4 +31,3 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-        ping6 ipv6.google.com
